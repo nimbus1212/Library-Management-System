@@ -12,14 +12,14 @@ with strong searching insertion and reporting capabilities. The report
 generation facility of library system helps to get a good idea of which
 are the books borrowed or returned by the members.
 
-## This software has four main modules:
+### This software has four main modules:
 1. Insertion to Database Module – User friendly input screen
 2. Extracting from Database module – Attractive Output Screen
 3. Report Generation module – Borrowed book list & Issued book
 list
 4. Search Facility system – Search for books
 
-# Minimum Hardware Requirements
+## Minimum Hardware Requirements
  Processor : Pentium IV or better
 
  RAM : 128 MB or more
@@ -30,7 +30,7 @@ list
 
  Key Board : 122 Keys
 
-# Minimum Software Requirements
+## Minimum Software Requirements
  Operating System : Windows 98, Windows XP,
                      Windows 7 or better
 
